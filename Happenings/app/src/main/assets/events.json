@@ -1,0 +1,82 @@
+{
+  "Events": [
+    {
+      "ID": 1,
+      "DATE": "1/6/16",
+      "TIME": "18:30",
+      "DURATION": 140,
+      "PRICE": 40,
+      "CATEGORYID": 2,
+      "ARTIST": "Jonathan Coe",
+      "REGION": "London",
+      "COUNTRYID": 1,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/51FG50YXZ6L.jpg",
+      "GEOCOORDINATES": "37.5605622,-94.3587086"
+    },
+    {
+      "ID": 2,
+      "DATE": "4/6/16",
+      "TIME": "19:45",
+      "DURATION": 110,
+      "PRICE": 50,
+      "CATEGORYID": 2,
+      "ARTIST": "Edna O'Brien",
+      "REGION": "Rome",
+      "COUNTRYID": 6,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/51r1ToSAS1L.jpg",
+      "GEOCOORDINATES": "1,1"
+    },
+    {
+      "ID": 3,
+      "DATE": "1/7/16",
+      "TIME": "17:30",
+      "DURATION": 60,
+      "PRICE": 30,
+      "CATEGORYID": 1,
+      "ARTIST": "T. S. Eliot",
+      "REGION": "Graz",
+      "COUNTRYID": 7,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/51XoshEXVEL.jpg",
+      "GEOCOORDINATES": "3,3"
+    },
+    {
+      "ID": 4,
+      "DATE": "21/6/16",
+      "TIME": "20:30",
+      "DURATION": 80,
+      "PRICE": 35,
+      "CATEGORYID": 2,
+      "ARTIST": "Oxford Dictionaries",
+      "REGION": "Athens",
+      "COUNTRYID": 2,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/71a3Fo6HO3L.jpg",
+      "GEOCOORDINATES": "4,4"
+    },
+    {
+      "ID": 5,
+      "DATE": "9/8/16",
+      "TIME": "19:30",
+      "DURATION": 90,
+      "PRICE": 45,
+      "CATEGORYID": 0,
+      "ARTIST": "Julian Barnes",
+      "REGION": "Salonika",
+      "COUNTRYID": 2,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/51wBPUwJ9ML.jpg",
+      "GEOCOORDINATES": "4,4"
+    },
+    {
+      "ID": 6,
+      "DATE": "7/7/16",
+      "TIME": "16:30",
+      "DURATION": 100,
+      "PRICE": 60,
+      "CATEGORYID": 2,
+      "ARTIST": "Ian McEwan",
+      "REGION": "Lubliana",
+      "COUNTRYID": 9,
+      "IMGURL": "http://ecx.images-amazon.com/images/I/51VpJUj7QlL.jpg",
+      "GEOCOORDINATES": "5,5"
+    }
+  ]
+}
